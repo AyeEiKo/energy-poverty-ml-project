@@ -1,0 +1,16 @@
+Country,Feature,Importance,Std Dev,P-value,CI Lower (99%),CI Upper (99%)
+Myanmar_Wealth_Inclusive,hv270WealthIndex,0.17963,0.007756,0.0,0.163659,0.1956
+Myanmar_Wealth_Inclusive,hv024RegionDivision,0.023349,0.002432,1.4e-05,0.018342,0.028357
+Myanmar_Wealth_Inclusive,HouseholdClusterElevation,0.006361,0.003031,0.004682,0.000119,0.012602
+Myanmar_Wealth_Inclusive,hv220AgeOfHead,0.002979,0.001468,0.00526,-4.4e-05,0.006002
+Myanmar_Wealth_Inclusive,hv025TypeOfResidence,0.002738,0.001317,0.004837,2.6e-05,0.005449
+Myanmar_Wealth_Inclusive,hv106_01EducationOfHead,0.002738,0.002231,0.025839,-0.001855,0.00733
+Myanmar_Wealth_Inclusive,v717Occupation,0.001449,0.000835,0.008906,-0.00027,0.003168
+Myanmar_Wealth_Inclusive,hv216HouseSize,0.000805,0.000986,0.070964,-0.001225,0.002836
+Myanmar_Wealth_Inclusive,hv014NoOfChildren,0.000725,0.000662,0.035242,-0.000637,0.002087
+Myanmar_Wealth_Inclusive,hv219SexOfHead,0.000322,0.000525,0.120991,-0.000759,0.001403
+Myanmar_Wealth_Inclusive,hv009FamilySize,0.000242,0.000927,0.29566,-0.001667,0.00215
+Myanmar_Wealth_Inclusive,745aHouseOwnership,0.0,0.001103,0.5,-0.00227,0.00227
+Myanmar_Wealth_Inclusive,v714CurrentlyWorking,-8.1e-05,0.00018,0.81305,-0.000451,0.00029
+Myanmar_Wealth_Inclusive,hv115_01MaritalStatus,-0.000161,0.000927,0.641286,-0.002069,0.001747
+Myanmar_Wealth_Inclusive,hv247HasBankAccount,-0.001047,0.000785,0.979679,-0.002663,0.000569

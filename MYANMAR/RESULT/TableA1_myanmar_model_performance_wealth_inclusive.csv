@@ -1,0 +1,9 @@
+Country,Model,Accuracy,Balanced Accuracy,F1,MCC
+Myanmar_Wealth_Inclusive ,CatBoost,0.898,0.842,0.935,0.699
+Myanmar_Wealth_Inclusive ,LightGBM,0.898,0.836,0.935,0.695
+Myanmar_Wealth_Inclusive ,RandomForest,0.897,0.832,0.935,0.692
+Myanmar_Wealth_Inclusive ,NeuralNetTorch,0.897,0.84,0.934,0.695
+Myanmar_Wealth_Inclusive ,NeuralNetFTTransformer,0.895,0.837,0.933,0.691
+Myanmar_Wealth_Inclusive ,ExtraTrees,0.889,0.818,0.93,0.667
+Myanmar_Wealth_Inclusive ,NeuralNetFastAI,0.887,0.824,0.928,0.666
+Myanmar_Wealth_Inclusive ,NeuralNetTabNet,0.81,0.845,0.865,0.593

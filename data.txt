@@ -1,0 +1,17 @@
+# Data Source (DHS)
+
+This project uses Demographic and Health Survey (DHS) data.
+
+The raw datasets are NOT included in this repository due to data usage restrictions.
+
+To access the data:
+
+1. Register at: https://dhsprogram.com
+2. Request access to DHS Phase VII datasets
+3. Download the following datasets:
+   - Myanmar DHS 2015–16
+   - Pakistan DHS 2017–18
+   - India DHS 2019–21
+
+Place downloaded files before running the pipeline.
+
