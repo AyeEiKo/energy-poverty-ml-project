@@ -1,0 +1,15 @@
+Country,Feature,Importance,Std Dev,P-value,CI Lower (99%),CI Upper (99%)
+Pakistan_Wealth_Inclusive,hv270WealthIndex,0.330357,0.008042,0,0.313798,0.346915
+Pakistan_Wealth_Inclusive,hv024RegionDivision,0.015576,0.003893,0.000432,0.00756,0.023592
+Pakistan_Wealth_Inclusive,hv025TypeOfResidence,0.009415,0.002222,0.000346,0.00484,0.01399
+Pakistan_Wealth_Inclusive,hv106_01EducationOfHead,0.004154,0.003191,0.02183,-0.002417,0.010725
+Pakistan_Wealth_Inclusive,hv220AgeOfHead,0.002146,0.001372,0.012461,-0.000678,0.00497
+Pakistan_Wealth_Inclusive,hv009FamilySize,0.001938,0.002994,0.110613,-0.004226,0.008102
+Pakistan_Wealth_Inclusive,hv216HouseSize,0.001661,0.002353,0.094731,-0.003183,0.006506
+Pakistan_Wealth_Inclusive,745aHouseOwnership,0.000762,0.001234,0.119794,-0.001778,0.003301
+Pakistan_Wealth_Inclusive,hv014NoOfChildren,0.000762,0.002125,0.233955,-0.003615,0.005138
+Pakistan_Wealth_Inclusive,v717Occupation,0.000415,0.001612,0.29773,-0.002905,0.003735
+Pakistan_Wealth_Inclusive,hv247HasBankAccount,0.000208,0.001084,0.345153,-0.002023,0.002439
+Pakistan_Wealth_Inclusive,hv115_01MaritalStatus,-0.000208,0.00154,0.610975,-0.003379,0.002964
+Pakistan_Wealth_Inclusive,v714CurrentlyWorking,-0.001108,0.00105,0.961129,-0.003269,0.001054
+Pakistan_Wealth_Inclusive,hv219SexOfHead,-0.001592,0.000629,0.997602,-0.002887,-0.000298

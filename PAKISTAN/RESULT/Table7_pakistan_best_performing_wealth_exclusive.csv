@@ -1,0 +1,3 @@
+Country,Model,Accuracy (mean ± SD),MCC (mean ± SD),Balanced Accuracy (mean ± SD),F1-Score (mean ± SD)
+PAKISTAN,GBM,0.806 ± 0.007,0.603 ± 0.015,0.800 ± 0.007,0.770 ± 0.008
+PAKISTAN,FASTAI,0.805 ± 0.008,0.602 ± 0.016,0.801 ± 0.008,0.772 ± 0.009

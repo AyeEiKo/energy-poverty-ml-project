@@ -1,0 +1,9 @@
+Country,Model,Accuracy,Balanced Accuracy,F1,MCC
+Pakistan_Wealth_Inclusive ,NeuralNetTorch,0.88,0.875,0.857,0.755
+Pakistan_Wealth_Inclusive ,NeuralNetFTTransformer,0.877,0.868,0.849,0.748
+Pakistan_Wealth_Inclusive ,NeuralNetFastAI,0.876,0.873,0.854,0.746
+Pakistan_Wealth_Inclusive ,LightGBM,0.875,0.87,0.851,0.744
+Pakistan_Wealth_Inclusive ,CatBoost,0.875,0.868,0.848,0.744
+Pakistan_Wealth_Inclusive ,ExtraTrees,0.873,0.868,0.849,0.74
+Pakistan_Wealth_Inclusive ,RandomForest,0.873,0.867,0.847,0.739
+Pakistan_Wealth_Inclusive ,NeuralNetTabNet,0.79,0.757,0.684,0.598
