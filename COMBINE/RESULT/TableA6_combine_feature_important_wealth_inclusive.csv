@@ -1,0 +1,17 @@
+Country,Feature,Importance,Std Dev,P-value,CI Lower (99%),CI Upper (99%)
+Combine_Wealth_Inclusive,hv270WealthIndex,0.32894,0.00611,0,0.31636,0.34152
+Combine_Wealth_Inclusive,hv024RegionDivision,0.03144,0.001001,0,0.029378,0.033502
+Combine_Wealth_Inclusive,hv000CountryCode,0.00834,0.000669,5e-06,0.006962,0.009718
+Combine_Wealth_Inclusive,HouseholdClusterElevation,0.00768,0.002484,0.001149,0.002565,0.012795
+Combine_Wealth_Inclusive,hv025TypeOfResidence,0.00422,0.000876,0.00021,0.002417,0.006023
+Combine_Wealth_Inclusive,hv009FamilySize,0.00344,0.001499,0.003418,0.000353,0.006527
+Combine_Wealth_Inclusive,hv216HouseSize,0.00122,0.00124,0.046304,-0.001333,0.003773
+Combine_Wealth_Inclusive,hv106_01EducationOfHead,0.00104,0.001477,0.095306,-0.002002,0.004082
+Combine_Wealth_Inclusive,hv220AgeOfHead,0.0009,0.000644,0.017696,-0.000426,0.002226
+Combine_Wealth_Inclusive,hv247HasBankAccount,0.00058,0.000402,0.016106,-0.000249,0.001409
+Combine_Wealth_Inclusive,v717Occupation,0.0003,0.00051,0.129325,-0.00075,0.00135
+Combine_Wealth_Inclusive,hv014NoOfChildren,0.00024,0.000737,0.253395,-0.001277,0.001757
+Combine_Wealth_Inclusive,745aHouseOwnership,0.0002,0.000292,0.099915,-0.0004,0.0008
+Combine_Wealth_Inclusive,v714CurrentlyWorking,0.00014,0.000182,0.079967,-0.000234,0.000514
+Combine_Wealth_Inclusive,hv219SexOfHead,0.0001,0.001012,0.418007,-0.001985,0.002185
+Combine_Wealth_Inclusive,hv115_01MaritalStatus,8e-05,0.000912,0.42704,-0.001798,0.001958

@@ -1,0 +1,9 @@
+Country,Model,Accuracy,Balanced Accuracy,F1,MCC
+Combine_Wealth_Inclusive,NeuralNetTorch,0.867,0.867,0.861,0.734
+Combine_Wealth_Inclusive,CatBoost,0.867,0.867,0.86,0.733
+Combine_Wealth_Inclusive,RandomForest,0.866,0.866,0.859,0.731
+Combine_Wealth_Inclusive,NeuralNetFastAI,0.865,0.865,0.857,0.73
+Combine_Wealth_Inclusive,ExtraTrees,0.865,0.865,0.858,0.729
+Combine_Wealth_Inclusive,LightGBM,0.864,0.863,0.856,0.727
+Combine_Wealth_Inclusive,NeuralNetFTTransformer,0.863,0.863,0.857,0.725
+Combine_Wealth_Inclusive,NeuralNetTabNet,0.858,0.858,0.851,0.715
