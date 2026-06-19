@@ -1,0 +1,3 @@
+Country,Model,Accuracy (mean ± SD),MCC (mean ± SD),Balanced Accuracy (mean ± SD),F1-Score (mean ± SD)
+INDIA,GBM,0.863 ± 0.002,0.725 ± 0.004,0.862 ± 0.003,0.853 ± 0.004
+INDIA,NN_TORCH,0.864 ± 0.001,0.727 ± 0.002,0.864 ± 0.001,0.857 ± 0.001

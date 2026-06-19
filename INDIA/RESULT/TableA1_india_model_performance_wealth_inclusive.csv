@@ -1,0 +1,9 @@
+Country,Model,Accuracy,Balanced Accuracy,F1,MCC
+India_Wealth_Inclusive,LightGBM,0.866,0.866,0.859,0.732
+India_Wealth_Inclusive,NeuralNetTorch,0.866,0.866,0.859,0.732
+India_Wealth_Inclusive,NeuralNetFastAI,0.866,0.866,0.858,0.731
+India_Wealth_Inclusive,RandomForest,0.866,0.865,0.857,0.73
+India_Wealth_Inclusive,NeuralNetFTTransformer,0.865,0.865,0.857,0.73
+India_Wealth_Inclusive,ExtraTrees,0.863,0.863,0.855,0.725
+India_Wealth_Inclusive,CatBoost,0.862,0.862,0.854,0.723
+India_Wealth_Inclusive,NeuralNetTabNet,0.861,0.862,0.855,0.722
