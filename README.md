@@ -31,7 +31,7 @@ This project applies machine learning (ML) and deep learning (DL) techniques to 
 ## Results Summary
 - Consistent performance across ML and DL models
 - Wealth index significantly impacts predictive accuracy
-- CatBoost and LightGBM are among best-performing models
+- Different models (CatBoost, LightGBM, NN_TORCH, FastAI, and FT-Transformer) emerge as best-performing depending on dataset and feature setting
 
 ## Repository Structure
 - `MYANMAR/` - Myanmar analysis and models
